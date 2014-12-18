@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hellou_rss</string>
+    
+    <!-- main ui -->
+    <string name="mainUIHeader">HelloU RSS</string>
+</resources>
